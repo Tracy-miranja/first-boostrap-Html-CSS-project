@@ -1,0 +1,578 @@
+
+#nav{
+	min-height: 30px;
+	width: 100%;
+	
+	margin: auto;
+	
+}
+#qe{
+	margin-top: 15px;
+	margin-left: 10%;
+	min-height: 10px;
+	
+	
+	
+}
+#qe a{
+	margin-top: 79px;
+	margin-right: 5px;
+	align-content: center;
+	
+}
+#qe a:hover{
+	background: #7E313F;
+	color: blue;
+	height: 100%;
+}
+#we{
+	margin-top: 5px;
+	margin-left: 14%;
+	position: relative;
+
+}
+#ve{
+	min-height: 30px;
+}
+#ve img{
+	margin-left: 123px;
+}
+
+#home{
+	background:url(../images/1c.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+min-height: 500px;
+margin-top: 1px;
+}
+#call{
+	min-height: 400px;
+	background: url(../images/1c.png);
+	background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+	float: left;
+	margin-top: 7%;	
+	position: relative;
+	margin-left: 185px;
+	margin-bottom: 7%;
+}
+
+
+#all{
+	min-height: 300px;
+	margin-left: 3%;
+	float: left;
+	margin-top: 8.5%;
+	
+	margin-bottom: 7%;	
+}
+#all h1{
+	font-size: 30px;
+	color: white;
+	align-content: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+#all h2{
+	font-size: 22px;
+	color: black;
+	align-content: center;
+	font-family:sans-serif;
+	font-weight: normal;
+	margin-left: 5%;
+	position: relative;
+}
+#all p{
+	font-size: 15px;
+	color: white;
+	align-content: center;
+	font-family: sans-serif;
+	font-weight: normal;
+	margin-left: 2%;
+	margin-top: 5%;
+}
+#u{
+	min-height: 300px;
+	background-color: #14070A;
+	margin-top: 3%;
+}
+#lh{
+	min-height: 200px;
+	background-color: #14070A;
+	margin-top: 2%;
+	
+}
+#ju{
+	min-height: 200px;
+	background-color: #14070A;
+	margin-top: 2%;
+	
+}
+#hm{
+	min-height: 200px;
+	background-color: #14070A;
+	margin-top: 2%;
+	
+}
+#tr{
+	min-height: 200px;
+	background-color: #14070A;
+	margin-top: 2%;
+}
+#lh h1{
+	font-size: 25px;
+	color: white;
+	align-content: center;
+	font-family: poppins;
+	font-weight: bold;
+	margin-left: 25%;
+	margin-top: 2%;
+}
+#lh h2{
+	font-size: 18px;
+	color: white;
+	align-content: center;
+	font-family: poppins;
+	font-weight: lighter;
+	margin-left: 25%;
+	margin-top: 2%;
+}
+#ju h1{
+	font-size: 25px;
+	color: white;
+	align-content: center;
+	font-family: poppins;
+	font-weight: bold;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#ju h2{
+	font-size: 18px;
+	color: white;
+	align-content: center;
+	font-family: poppins;
+	font-weight: lighter;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#ju hr{
+	margin-left: 1%
+}
+#lh hr{
+	margin-left: 25%
+}
+#hm h1{
+	font-size: 25px;
+	color: white;
+	align-content: center;
+	font-family:sans-serif;
+	font-weight: bold;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#hm h2{
+	font-size: 18px;
+	color: white;
+	align-content: center;
+	font-family: sans-serif;
+	font-weight: lighter;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#hm hr{
+	margin-left: 1%
+}
+#tr h1{
+	font-size: 25px;
+	color: white;
+	align-content: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#tr h2{
+	font-size: 18px;
+	color: white;
+	align-content: center;
+	font-family: sans-serif;
+	font-weight: lighter;
+	margin-left: 1%;
+	margin-top: 2%;
+}
+#tr hr{
+	margin-left: 1%
+}
+#youu{
+	min-height: 60px;
+	margin-left: 2%;
+
+}
+#you{
+	min-height: 60px;
+	margin-left: 1%;
+	
+
+}
+#yo{
+	min-height: 60px;
+	margin-left: 3%;
+
+
+}
+#you input{
+	height:40px;
+	width: 45%;
+}
+#wqwer{
+	background-color: red;
+	min-height: 100px;
+}
+#wqwer img{
+	float: left;
+	min-height: 50px;
+	width: 40%;
+	margin-top: 5%;
+	margin-left: 10%
+
+}
+#wqwer h1{
+	float: right;
+	margin-top: 2%;
+	font-size: 25px;
+	color: black;
+	margin-right: 20%
+}
+#wqwer h2{
+	float: right;
+	
+	font-size: 15px;
+	color: black;
+	margin-right: 20%
+}
+
+.eer{
+border-radius: 50 solid:white; 
+}
+#wqwe{
+	background-color: black;
+	min-height: 100px;
+}
+#wqw{
+	background-color: red;
+	min-height: 100px;
+}
+#rock{
+	min-height: 100px;
+	
+}
+#leeg{
+	margin-top: 3%;
+}
+#leeg h1{
+	font-weight: lighter;
+	font-family: sans-serif;
+	font-size: 30px;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+#leeg h2{
+	font-weight: lighter;
+	font-family: myriad;
+	font-size: 15px;
+	margin-left: 40%;
+}
+
+#ock{
+	min-height: 100px;
+	
+}
+#ck{
+	min-height: 100px;
+	
+}
+#k{
+	margin-top: 3%;
+}
+#k h1{
+	font-weight: lighter;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 33%;
+}
+#about{
+	
+}
+#cui{
+	min-height: 300px;
+	margin-top: 3%;
+	
+}
+#cui img{
+	height: 200px;
+	width: 80%;
+	margin-left: 5%;
+}
+#uu img{
+	height: 200px;
+	width: 80%;
+	margin-left: 5%;
+}
+
+#uu{
+	min-height: 300px;
+	margin-top: 3%;
+	
+}
+#hk{
+	min-height: 300px;
+	margin-top: 3%;
+	
+}
+#hk h1{
+	font-weight: lighter;
+	font-family: sans-serif;
+	font-size: 20px;
+	
+	
+}
+#frt{
+	min-height: 400px;
+	background-image: url(../images/1c.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-top: 30px;
+}
+#caws{
+	min-height: 400px;
+	margin: auto;
+	
+}
+#caws h1{
+	font-weight: lighter;
+	font-family: poppins;
+	font-size: 28px;
+	margin-left: 27%;
+	margin-top: 4%;
+	color: black;
+}
+.ex{
+margin-left: 31%;
+}
+#caws img{
+	margin-left: 5px;
+}
+
+
+#caws p{
+	font-weight: lighter;
+	font-family: poppins;
+	font-size: 18px;
+	margin-left: 2%;
+	margin-top: 2%;
+	color: white;
+}
+#caws h3{
+	font-weight: lighter;
+	font-family: poppins;
+	font-size: 18px;
+	margin-left: 38%;
+	margin-top: 2%;
+	color: black;
+}
+#service{
+background-image: url( ../images/5b.jpg);
+min-height: 400px;
+margin-top: 5%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+#ji{
+	min-height: 300px;
+	margin: auto;
+	
+	
+}
+
+#srt{
+	min-height: 300px;
+	margin: auto;
+	background-color: maroon;	
+}
+#srt h1{
+	margin-left: 34%;
+	font-size: 28px;
+	color: white;
+	margin-top: 2%;
+}
+#srt p{
+	margin-left: 4%;
+	font-size: 15px;
+	color: white;
+	margin-top: 6%;
+}
+#srt input{
+	width: 30%;
+	margin-left: 30%;
+}
+#when{
+	min-height: 300px;
+	margin: auto;
+	background-color: #F9F7F7;
+	margin-top: 20px;	
+}
+#hen{
+	min-height: 300px;
+	margin: auto;
+	background-color: #F9F7F7;	
+	margin-top: 20px;
+}
+#en{
+	min-height: 300px;
+	margin: auto;
+	background-color:#F9F7F7 ;
+	margin-top: 20px;	
+}
+#clap{
+	min-height: 70px;
+	margin: auto;
+	background-color: black;
+	margin-top: 20px;	
+}
+#cla{
+	min-height: 70px;
+	margin: auto;
+	background-color: maroon;
+	margin-top: 20px;	
+}
+#when img{
+	height: 100px;
+	width: 40%;
+	margin-left: 25%;
+	
+}
+#leeg{
+	margin-top: 3%;
+}
+#leeg img{
+	height: 90px;
+	width: 20%;
+	margin-left: 12%;
+	margin-top: 1%;
+	position: absolute;
+	
+}
+#hen img{
+	height: 100px;
+	width: 40%;
+	margin-left: 25%;
+	
+}
+#en img{
+	height: 100px;
+	width: 40%;
+	margin-left: 25%;
+	
+}
+#eke h1{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 21px;
+	margin-left: 5%;
+	margin-top: 2%;
+	color: blue;
+}
+#eke p{
+	font-weight: lighter;
+	font-family: poppins;
+	font-size: 15px;
+	margin-left: 5%;
+	margin-top: 2%;
+	color: black;
+}
+#eke input{
+	width: 33%;
+	margin-left: 30%;
+}
+#clap h1{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 21px;
+	margin-left: 25%;
+	margin-top: 2%;
+	color: blue;
+	align-content: center;
+}
+#cla h1{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 21px;
+	margin-left: 10%;
+	margin-top: 2%;
+	color: #ffff;
+}
+#cord{
+	min-height: 250px;
+	background-color: grey;
+	margin-top: 3%;
+	margin-left: 8%;
+}
+#cord h1{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 28px;
+	margin-left: 1%;
+	margin-top: 2%;
+	color: #ffff;
+}
+#contacts{
+	
+}
+#cor{
+	min-height: 300px;
+	background-color: white;
+	margin-top: 3%;
+	margin-left: 4%;
+}
+#cor h1{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 25px;
+	margin-left: 15%;
+	margin-top: 2%;
+	color:black;
+}
+#cor h3{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 25px;
+	margin-left: 15%;
+	margin-top: 2%;
+	color:black;
+}
+#cor h2{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 25px;
+	margin-left: 15%;
+	margin-top: 2%;
+	color:black;
+}
+#cor p{
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 15px;
+	margin-left: 15%;
+	margin-top: 2%;
+	color:black;
+}
+
+
+
+
